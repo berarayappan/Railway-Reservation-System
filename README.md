@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Railway Reservation System (Python)
 
 ## Overview
@@ -92,3 +93,6 @@ Handles:
 ## Author
 
 BERA R
+=======
+# Railway-Reservation-System
+>>>>>>> 0cc0ad5d8b4d80d5c4bba8cc50ed6afcb09a5664
